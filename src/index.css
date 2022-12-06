@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.test-git-reset {
+  color: orange;
+  font-size: large;
+}
+.another-commit {
+  color: red;
+  font-size: large;
+}
