@@ -22,6 +22,7 @@ function App() {
           </a>
         </p>
         <div>Test git reset</div>
+        <div>Another Commit</div>
       </header>
     </div>
   );
