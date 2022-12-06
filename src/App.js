@@ -21,7 +21,8 @@ function App() {
             Learn React
           </a>
         </p>
-        <div>Test git reset</div>
+        <div className='test-git-reset'>Test git reset</div>
+        <div className='another-commit'>Another Commit</div>
       </header>
     </div>
   );
