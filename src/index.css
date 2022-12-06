@@ -13,9 +13,15 @@ code {
 }
 .test-git-reset {
   color: orange;
+<<<<<<< HEAD
   font-size: large;
 }
 .another-commit {
   color: red;
   font-size: large;
+=======
+}
+.another-commit {
+  color: red;
+>>>>>>> a69f469a7948795d40607de72143460a83638c0b
 }
