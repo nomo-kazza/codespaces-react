@@ -21,6 +21,7 @@ function App() {
             Learn React
           </a>
         </p>
+        <div>Test git reset</div>
       </header>
     </div>
   );
